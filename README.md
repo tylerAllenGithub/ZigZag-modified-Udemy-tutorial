@@ -9,7 +9,7 @@ Note: Must have Android API of 4.1 or higher to run. Must have a USB cable with 
 How to download:
 1. Download all files by zip
 2. Extract zip file to any file location
-3. Open ZipZag folder from that file location
+3. Open ZigZag folder from that file location
 4. Open Builds folder
 5. Locate ZigZag Android.apk and make a copy of it
 5.5. (There are many ways to run an Android apk on an Android device so I will explain how I went about it)
