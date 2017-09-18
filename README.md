@@ -6,7 +6,7 @@ Credit goes to Raja Biswas for original code on Udemy tutorial
 Note: Must have Android API of 4.1 or higher to run. Must have a USB cable with a compatible Android device
 
 
-How to play:
+How to download:
 1. Download all files by zip
 2. Extract zip file to any file location
 3. Open ZipZag folder from that file location
@@ -29,3 +29,11 @@ How to play:
 18. Select Complete Action using "Package installer"
 19. Select "Install"
 20. Select "Open"
+
+How to play:
+Tap to move in X or Z direction
+Collect Pink Cubes for points
+Collect Blue Cubes to slow down
+Collect Green Cubes to speed up
+Avoid Red Cubes to survive
+Get the new High Score!
